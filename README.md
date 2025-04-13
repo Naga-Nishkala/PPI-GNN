@@ -1,7 +1,6 @@
 # PPI_GNN
 
-**PPI_GNN** is a graph-based deep learning approach that uses 3D protein structures to predict interactions between protein pairs.
+**PPI_GNN** is a graph-based deep learning approach that leverages 3D protein structures to predict binary protein-protein interactions.
 
-This repository includes code for dataset creation, feature extraction, graph construction, and training a GNN model for binary protein-protein interaction prediction.
-
-📚 **For full details, see the [documentation](./Documentation.docx)**.
+The data required to run the GNN is already included.  
+If you'd like to modify the data processing or interaction definition, please refer to the [documentation](./Documentation.docx) for detailed steps and customization options.
