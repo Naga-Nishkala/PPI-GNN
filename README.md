@@ -3,6 +3,8 @@
 **PPI_GNN** is a Graph Neural Network (GNN)-based framework designed to predict protein-protein interactions (PPIs) 🤝 using 3D structural information 🧬.  
 It integrates curated datasets of positive and negative protein pairs, processes their structures, and trains a deep model to classify interaction likelihoods.
 
+![PPI_GNN Architecture](./assets/ppi_gnn_architecture.png)
+
 📦 The required data to run the GNN is already included in the repository under the `data/protein_graphs/` folder.
 
 🚫 You can skip dataset creation and directly run the model using the preprocessed data.  
